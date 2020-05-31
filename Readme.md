@@ -13,4 +13,3 @@ print information to screen about how other arguments can be used.
 ● Usage of CSV2XML file must be as follows:
 CSV2XML <inputfile> <outputfile> [-separator <P1>][-opsys <P2>][-h]
 
-contacts.csv for just examples csv . 
