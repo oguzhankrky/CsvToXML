@@ -1,0 +1,402 @@
+<contacts>
+<row id=”1”>
+<first_name>James</first_name>
+<last_name> Butt</last_name>
+<email> jbutt@gmail.com</email>
+<phone_number> 504-845-1427</phone_number>
+<address> 
+</address>
+</row>
+<row id=”2”>
+<first_name>Josephine</first_name>
+<last_name> Darakjy</last_name>
+<email> josephine_darakjy@darakjy.org</email>
+<phone_number> </phone_number>
+<address> 
+</address>
+</row>
+<row id=”3”>
+<first_name>Art</first_name>
+<last_name> Venere</last_name>
+<email> </email>
+<phone_number> 856-264-4130</phone_number>
+<address> 8 W Cerritos Ave #54
+</address>
+</row>
+<row id=”4”>
+<first_name>Lenna</first_name>
+<last_name> Paprocki</last_name>
+<email> lpaprocki@hotmail.com</email>
+<phone_number> 907-921-2010</phone_number>
+<address> 639 Main St
+</address>
+</row>
+<row id=”5”>
+<first_name>Donette</first_name>
+<last_name> Foller</last_name>
+<email> donette.foller@cox.net</email>
+<phone_number> 513-549-4561</phone_number>
+<address> 34 Center St
+</address>
+</row>
+<row id=”6”>
+<first_name>Simona</first_name>
+<last_name> Morasca</last_name>
+<email> simona@morasca.com</email>
+<phone_number> 419-800-6759</phone_number>
+<address> 3 Mcauley Dr
+</address>
+</row>
+<row id=”7”>
+<first_name>Mitsue</first_name>
+<last_name> Tollner</last_name>
+<email> mitsue_tollner@yahoo.com</email>
+<phone_number> 773-924-8565</phone_number>
+<address> 7 Eads St
+</address>
+</row>
+<row id=”8”>
+<first_name>Leota</first_name>
+<last_name> Dilliard</last_name>
+<email> leota@hotmail.com</email>
+<phone_number> 408-813-1105</phone_number>
+<address> 7 W Jackson Blvd
+</address>
+</row>
+<row id=”9”>
+<first_name>Sage</first_name>
+<last_name> Wieser</last_name>
+<email> sage_wieser@cox.net</email>
+<phone_number> 605-794-4895</phone_number>
+<address> 5 Boston Ave #88
+</address>
+</row>
+<row id=”10”>
+<first_name>Kris</first_name>
+<last_name> Marrier</last_name>
+<email> kris@gmail.com</email>
+<phone_number> 410-804-4694</phone_number>
+<address> 228 Runamuck Pl #2808
+</address>
+</row>
+<row id=”11”>
+<first_name>Minna</first_name>
+<last_name> Amigon</last_name>
+<email> minna_amigon@yahoo.com</email>
+<phone_number> 215-422-8694</phone_number>
+<address> 2371 Jerrold Ave
+</address>
+</row>
+<row id=”12”>
+<first_name>Abel</first_name>
+<last_name> Maclead</last_name>
+<email> amaclead@gmail.com</email>
+<phone_number> 631-677-3675</phone_number>
+<address> 37275 St  Rt 17m M
+</address>
+</row>
+<row id=”13”>
+<first_name>Kiley</first_name>
+<last_name> Caldarera</last_name>
+<email> kiley.caldarera@aol.com</email>
+<phone_number> 310-254-3084</phone_number>
+<address> 25 E 75th St #69
+</address>
+</row>
+<row id=”14”>
+<first_name>Graciela</first_name>
+<last_name> Ruta</last_name>
+<email> gruta@cox.net</email>
+<phone_number> 440-579-7763</phone_number>
+<address> 98 Connecticut Ave Nw
+</address>
+</row>
+<row id=”15”>
+<first_name>Cammy</first_name>
+<last_name> Albares</last_name>
+<email> calbares@gmail.com</email>
+<phone_number> 956-841-7216</phone_number>
+<address> 56 E Morehead St
+</address>
+</row>
+<row id=”16”>
+<first_name>Mattie</first_name>
+<last_name> Poquette</last_name>
+<email> mattie@aol.com</email>
+<phone_number> 602-953-6360</phone_number>
+<address> 73 State Road 434 E
+</address>
+</row>
+<row id=”17”>
+<first_name>Meaghan</first_name>
+<last_name> Garufi</last_name>
+<email> meaghan@hotmail.com</email>
+<phone_number> 931-235-7959</phone_number>
+<address> 69734 E Carrillo St
+</address>
+</row>
+<row id=”18”>
+<first_name>Gladys</first_name>
+<last_name> Rim</last_name>
+<email> gladys.rim@rim.org</email>
+<phone_number> 414-377-2880</phone_number>
+<address> 322 New Horizon Blvd
+</address>
+</row>
+<row id=”19”>
+<first_name>Yuki</first_name>
+<last_name> Whobrey</last_name>
+<email> yuki_whobrey@aol.com</email>
+<phone_number> 313-341-4470</phone_number>
+<address> 1 State Route 27
+</address>
+</row>
+<row id=”20”>
+<first_name>Fletcher</first_name>
+<last_name> Flosi</last_name>
+<email> fletcher.flosi@yahoo.com</email>
+<phone_number> 815-426-5657</phone_number>
+<address> 394 Manchester Blvd
+</address>
+</row>
+<row id=”21”>
+<first_name>Bette</first_name>
+<last_name> Nicka</last_name>
+<email> bette_nicka@cox.net</email>
+<phone_number> 610-492-4643</phone_number>
+<address> 6 S 33rd St
+</address>
+</row>
+<row id=”22”>
+<first_name>Veronika</first_name>
+<last_name> Inouye</last_name>
+<email> vinouye@aol.com</email>
+<phone_number> 408-813-4592</phone_number>
+<address> 6 Greenleaf Ave
+</address>
+</row>
+<row id=”23”>
+<first_name>Willard</first_name>
+<last_name> Kolmetz</last_name>
+<email> willard@hotmail.com</email>
+<phone_number> 972-896-4882</phone_number>
+<address> 618 W Yakima Ave
+</address>
+</row>
+<row id=”24”>
+<first_name>Maryann</first_name>
+<last_name> Royster</last_name>
+<email> mroyster@royster.com</email>
+<phone_number> 518-448-8982</phone_number>
+<address> 74 S Westgate St
+</address>
+</row>
+<row id=”25”>
+<first_name>Alisha</first_name>
+<last_name> Slusarski</last_name>
+<email> alisha@slusarski.com</email>
+<phone_number> 732-635-3453</phone_number>
+<address> 3273 State St
+</address>
+</row>
+<row id=”26”>
+<first_name>Allene</first_name>
+<last_name> Iturbide</last_name>
+<email> allene_iturbide@cox.net</email>
+<phone_number> 715-530-9863</phone_number>
+<address> 1 Central Ave
+</address>
+</row>
+<row id=”27”>
+<first_name>Chanel</first_name>
+<last_name> Caudy</last_name>
+<email> chanel.caudy@caudy.org</email>
+<phone_number> 913-899-1103</phone_number>
+<address> 86 Nw 66th St #8673
+</address>
+</row>
+<row id=”28”>
+<first_name>Ezekiel</first_name>
+<last_name> Chui</last_name>
+<email> ezekiel@chui.com</email>
+<phone_number> 410-235-8738</phone_number>
+<address> 2 Cedar Ave #84
+</address>
+</row>
+<row id=”29”>
+<first_name>Willow</first_name>
+<last_name> Kusko</last_name>
+<email> wkusko@yahoo.com</email>
+<phone_number> 212-934-5167</phone_number>
+<address> 90991 Thorburn Ave
+</address>
+</row>
+<row id=”30”>
+<first_name>Bernardo</first_name>
+<last_name> Figeroa</last_name>
+<email> bfigeroa@aol.com</email>
+<phone_number> 936-597-3614</phone_number>
+<address> 386 9th Ave N
+</address>
+</row>
+<row id=”31”>
+<first_name>Ammie</first_name>
+<last_name> Corrio</last_name>
+<email> ammie@corrio.com</email>
+<phone_number> 614-648-3265</phone_number>
+<address> 74874 Atlantic Ave
+</address>
+</row>
+<row id=”32”>
+<first_name>Francine</first_name>
+<last_name> Vocelka</last_name>
+<email> francine_vocelka@vocelka.com</email>
+<phone_number> 505-335-5293</phone_number>
+<address> 366 South Dr
+</address>
+</row>
+<row id=”33”>
+<first_name>Ernie</first_name>
+<last_name> Stenseth</last_name>
+<email> ernie_stenseth@aol.com</email>
+<phone_number> 201-387-9093</phone_number>
+<address> 45 E Liberty St
+</address>
+</row>
+<row id=”34”>
+<first_name>Albina</first_name>
+<last_name> Glick</last_name>
+<email> albina@glick.com</email>
+<phone_number> 732-782-6701</phone_number>
+<address> 4 Ralph Ct
+</address>
+</row>
+<row id=”35”>
+<first_name>Alishia</first_name>
+<last_name> Sergi</last_name>
+<email> asergi@gmail.com</email>
+<phone_number> 212-753-2740</phone_number>
+<address> 2742 Distribution Way
+</address>
+</row>
+<row id=”36”>
+<first_name>Solange</first_name>
+<last_name> Shinko</last_name>
+<email> solange@shinko.com</email>
+<phone_number> 504-265-8174</phone_number>
+<address> 426 Wolf St
+</address>
+</row>
+<row id=”37”>
+<first_name>Jose</first_name>
+<last_name> Stockham</last_name>
+<email> jose@yahoo.com</email>
+<phone_number> 212-569-4233</phone_number>
+<address> 128 Bransten Rd
+</address>
+</row>
+<row id=”38”>
+<first_name>Rozella</first_name>
+<last_name> Ostrosky</last_name>
+<email> rozella.ostrosky@ostrosky.com</email>
+<phone_number> 805-609-1531</phone_number>
+<address> 17 Morena Blvd
+</address>
+</row>
+<row id=”39”>
+<first_name>Valentine</first_name>
+<last_name> Gillian</last_name>
+<email> valentine_gillian@gmail.com</email>
+<phone_number> 210-300-6244</phone_number>
+<address> 775 W 17th St
+</address>
+</row>
+<row id=”40”>
+<first_name>Kati</first_name>
+<last_name> Rulapaugh</last_name>
+<email> kati.rulapaugh@hotmail.com</email>
+<phone_number> 785-219-7724</phone_number>
+<address> 6980 Dorsett Rd
+</address>
+</row>
+<row id=”41”>
+<first_name>Youlanda</first_name>
+<last_name> Schemmer</last_name>
+<email> youlanda@aol.com</email>
+<phone_number> 541-993-2611</phone_number>
+<address> 2881 Lewis Rd
+</address>
+</row>
+<row id=”42”>
+<first_name>Dyan</first_name>
+<last_name> Oldroyd</last_name>
+<email> doldroyd@aol.com</email>
+<phone_number> 913-645-8918</phone_number>
+<address> 7219 Woodfield Rd
+</address>
+</row>
+<row id=”43”>
+<first_name>Roxane</first_name>
+<last_name> Campain</last_name>
+<email> roxane@hotmail.com</email>
+<phone_number> 907-335-6568</phone_number>
+<address> 1048 Main St
+</address>
+</row>
+<row id=”44”>
+<first_name>Lavera</first_name>
+<last_name> Perin</last_name>
+<email> lperin@perin.org</email>
+<phone_number> 305-995-2078</phone_number>
+<address> 678 3rd Ave
+</address>
+</row>
+<row id=”45”>
+<first_name>Erick</first_name>
+<last_name> Ferencz</last_name>
+<email> erick.ferencz@aol.com</email>
+<phone_number> 907-227-6777</phone_number>
+<address> 20 S Babcock St
+</address>
+</row>
+<row id=”46”>
+<first_name>Fatima</first_name>
+<last_name> Saylors</last_name>
+<email> fsaylors@saylors.org</email>
+<phone_number> 952-479-2375</phone_number>
+<address> 2 Lighthouse Ave
+</address>
+</row>
+<row id=”47”>
+<first_name>Jina</first_name>
+<last_name> Briddick</last_name>
+<email> jina_briddick@briddick.com</email>
+<phone_number> 617-997-5771</phone_number>
+<address> 38938 Park Blvd
+</address>
+</row>
+<row id=”48”>
+<first_name>Kanisha</first_name>
+<last_name> Waycott</last_name>
+<email> kanisha_waycott@yahoo.com</email>
+<phone_number> 323-315-7314</phone_number>
+<address> 5 Tomahawk Dr
+</address>
+</row>
+<row id=”49”>
+<first_name>Emerson</first_name>
+<last_name> Bowley</last_name>
+<email> emerson.bowley@bowley.org</email>
+<phone_number> 608-658-7940</phone_number>
+<address> 762 S Main St
+</address>
+</row>
+<row id=”50”>
+<first_name>Blair</first_name>
+<last_name> Malet</last_name>
+<email> bmalet@yahoo.com</email>
+<phone_number> 215-794-4519</phone_number>
+<address> 209 Decker Dr
+</address>
+</row>
+</contacts>
